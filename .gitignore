@@ -1,0 +1,6 @@
+# Ignore all python cache directories recursively
+**/__pycache__/
+*.py[cod]
+
+# Ignore environment variables / secrets
+.env
